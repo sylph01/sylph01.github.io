@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/s01
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://s01.info
+  * I am s01 (https://keybase.io/s01) on keybase.
+  * I have a public key ASB52b64K9guFgDtc70icP9FvkNoxFumhTa_6XMvw-VMIQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012079d9beb82bd82e1600ed73bd2270ff45be4368c45ba68536bfe9732fc3e54c210a",
+            "host": "keybase.io",
+            "kid": "012079d9beb82bd82e1600ed73bd2270ff45be4368c45ba68536bfe9732fc3e54c210a",
+            "uid": "fb173a948cf4a99ace8aa40268ff7019",
+            "username": "s01"
+        },
+        "service": {
+            "hostname": "s01.info",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.23"
+    },
+    "ctime": 1496364399,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1496364355,
+        "hash": "307f06ffb66abcca8be3092c0b8c9f7b6abd09f140dfa2c9d06db9fe4e2bfdb3a1d21a977f743ce5a1d45befe851bbbe4d8340ff75eb291a2c0a6358157d3390",
+        "seqno": 1136624
+    },
+    "prev": "46cdb48430ee2ba8df8d7ac33cdba985a3387095240cc42c8349dea98bbd34a7",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgedm+uCvYLhYA7XO9InD/Rb5DaMRbpoU2v+lzL8PlTCEKp3BheWxvYWTFAux7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzlkOWJlYjgyYmQ4MmUxNjAwZWQ3M2JkMjI3MGZmNDViZTQzNjhjNDViYTY4NTM2YmZlOTczMmZjM2U1NGMyMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzlkOWJlYjgyYmQ4MmUxNjAwZWQ3M2JkMjI3MGZmNDViZTQzNjhjNDViYTY4NTM2YmZlOTczMmZjM2U1NGMyMTBhIiwidWlkIjoiZmIxNzNhOTQ4Y2Y0YTk5YWNlOGFhNDAyNjhmZjcwMTkiLCJ1c2VybmFtZSI6InMwMSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiczAxLmluZm8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMyJ9LCJjdGltZSI6MTQ5NjM2NDM5OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk2MzY0MzU1LCJoYXNoIjoiMzA3ZjA2ZmZiNjZhYmNjYThiZTMwOTJjMGI4YzlmN2I2YWJkMDlmMTQwZGZhMmM5ZDA2ZGI5ZmU0ZTJiZmRiM2ExZDIxYTk3N2Y3NDNjZTVhMWQ0NWJlZmU4NTFiYmJlNGQ4MzQwZmY3NWViMjkxYTJjMGE2MzU4MTU3ZDMzOTAiLCJzZXFubyI6MTEzNjYyNH0sInByZXYiOiI0NmNkYjQ4NDMwZWUyYmE4ZGY4ZDdhYzMzY2RiYTk4NWEzMzg3MDk1MjQwY2M0MmM4MzQ5ZGVhOThiYmQzNGE3Iiwic2Vxbm8iOjQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAMcz3ik5AuJwiaAxXrw8l2X274QM/rh2MQCEuNVWXjqGF9Tv7bxjiGtTM2zZXs9arQDupNcgZglBvR6nVDAvRAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFpaLWQG69GV3k59dwFHzN7aHBvxlB4+2hspGUZgBINIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/s01
+
+==================================================================
