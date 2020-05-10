@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Writeup for IIW30
-data: 2020-05-10 00:00:00 +09:00
+data: 2020-05-10 23:00:00 +09:00
 ---
 
 I'm finally writing an English blog entry for the first time!
