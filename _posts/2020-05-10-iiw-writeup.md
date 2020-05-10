@@ -68,7 +68,7 @@ One more thing I will be looking into particularly is the [JSON Web Messaging(JW
 
 ## The IIW experience itself
 
-This is the first time attending any IIW and any remote "unconference" (note that I have attended some sessions in the past IETF meeting, which also went completely virtual).
+This is the first time attending any IIW and any remote "unconference" (I have attended some sessions in the past IETF meeting, which also went completely virtual).
 
 Unconferences are a challenge, especially attending one that is not in my native language. Being able to ask questions in chat was very helpful for this reason.
 
