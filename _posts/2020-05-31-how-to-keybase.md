@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Keybaseを使おう
+data: 2020-05-31 23:00:00 +09:00
+category: ja
 ---
 
 ## なにそれ
