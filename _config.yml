@@ -28,3 +28,5 @@ highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate]
 # gems:              [jekyll-paginate]
+
+timezone:            Asia/Tokyo
