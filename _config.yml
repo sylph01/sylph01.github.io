@@ -18,6 +18,8 @@ navigation:
   url: /menu/articles_en
 - title: Blog(ja)
   url: "http://sylph01.hatenablog.jp/"
+- title: About
+  url: /about
 
 paginate:            5
 disqus:              #"your-disqus"
