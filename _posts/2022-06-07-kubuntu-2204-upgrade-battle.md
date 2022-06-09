@@ -58,3 +58,7 @@ KeybaseのGUIアプリはsystemd経由で起動するので、systemdの設定�
 
 - [https://github.com/keybase/client/issues/24944](https://github.com/keybase/client/issues/24944)
 - [https://github.com/keybase/client/issues/24688](https://github.com/keybase/client/issues/24688)
+
+### Zoom
+
+これも同様に `--disable-gpu-sandbox` あるいは `--disable-seccomp-filter-sandbox` が必要。ブラウザから `xdg-open` によって会議に入る方法ではこのオプション付きでは起動しないので、予めアプリケーションを開いておいた上で `xdg-open` することによって会議に入ることができる。
