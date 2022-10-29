@@ -1,17 +1,17 @@
 ---
 layout: page
-title: The Cultural Relevance of Pokèmon SV's 3rd Trailer
+title: The Cultural Relevance of Pokémon SV's 3rd Trailer
 date: 2022-10-29 14:00:00 +09:00
 category: en
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rIvABegnbD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Some section of the Japanese Twitterverse blew up over the music of Pokèmon Scarlet and Violet's 3rd Trailer, where in the west, it seems like almost nobody is mentioning it. I checked the YouTube comment section and Reddit's r/pokemon to see if there's any mention of hte music used in the trailer, but I wasn't able to find any. Whereas in the Japanese YouTube comments, there are multiple comments that mention the music and how they have personal attachments to the song, getting hundreds of upvotes and favorable replies. Where does this song come from, and why is it so relevant?
+Some section of the Japanese Twitterverse blew up over the music of Pokémon Scarlet and Violet's 3rd Trailer, where in the west, it seems like almost nobody is mentioning it. I checked the YouTube comment section and Reddit's r/pokemon to see if there's any mention of hte music used in the trailer, but I wasn't able to find any. Whereas in the Japanese YouTube comments, there are multiple comments that mention the music and how they have personal attachments to the song, getting hundreds of upvotes and favorable replies. Where does this song come from, and why is it so relevant?
 
 ## The music's origin
 
-First of all, the music is not original to Pokèmon. The piece is called "Alvamar Overture" by [James Barnes](https://en.wikipedia.org/wiki/James_Barnes_(composer)), an American composer known for multiple symphonies for wind orchestras. The piece was initially written for a middle school band in Wichita, Kansas, to be performed at a music festival in 1981.
+First of all, the music is not original to Pokémon. The piece is called "Alvamar Overture" by [James Barnes](https://en.wikipedia.org/wiki/James_Barnes_(composer)), an American composer known for multiple symphonies for wind orchestras. The piece was initially written for a middle school band in Wichita, Kansas, to be performed at a music festival in 1981.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3xhdw-Q3xAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -37,7 +37,7 @@ You might have also noticed that the initial trailer also included the main them
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BEtfH5P0PSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Also, the Pokèmon Official YouTube Channel released [videos with play samples for each instrument in the band.](https://www.youtube.com/watch?v=BEtfH5P0PSk&list=PLBE2D9BnJJUoD-UjGGR7iKrS3z8af1rbU) This and the song pick for the third trailer seems very much to hint towards a focus on wind orchestras and the band club culture. This might hint at more songs to be written in this format, and maybe a real-life concert featuring Pokèmon songs...?
+Also, the Pokémon Official YouTube Channel released [videos with play samples for each instrument in the band.](https://www.youtube.com/watch?v=BEtfH5P0PSk&list=PLBE2D9BnJJUoD-UjGGR7iKrS3z8af1rbU) This and the song pick for the third trailer seems very much to hint towards a focus on wind orchestras and the band club culture. This might hint at more songs to be written in this format, and maybe a real-life concert featuring Pokémon songs...?
 
 ----
 
