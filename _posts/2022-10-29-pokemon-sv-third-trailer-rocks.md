@@ -41,7 +41,7 @@ Also, the Pokémon Official YouTube Channel released [videos with play samples f
 
 ----
 
-Special thanks to [@kuronyann_](https://twitter.com/kuronyann_) and [@ak1n4](https://twitter.com/ak1n4) for reviewing this article!
+Special thanks to [@kuronyann__](https://twitter.com/kuronyann__) and [@ak1n4](https://twitter.com/ak1n4) for reviewing this article!
 
 ----
 
