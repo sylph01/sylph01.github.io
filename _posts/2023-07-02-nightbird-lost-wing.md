@@ -14,7 +14,7 @@ category: ja
 
 ## 本文
 
-我々を夜遅くまで眠らせずにいた「鳥」は、翼を失い、堕ちた。
+我々を夜遅くまで眠らせずにいた「鳥」は、翼を失い、墜ちた。
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">To address extreme levels of data scraping &amp; system manipulation, we’ve applied the following temporary limits:<br><br>- Verified accounts are limited to reading 6000 posts/day<br>- Unverified accounts to 600 posts/day<br>- New unverified accounts to 300/day</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1675187969420828672?ref_src=twsrc%5Etfw">July 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
