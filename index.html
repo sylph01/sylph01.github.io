@@ -15,7 +15,7 @@ title: Home
   {% endif %}
   <p>
     {{ post.content | strip_html | truncate: 100 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
-    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} </span>
+    <span class="post-date" style="margin-top:3px"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%B %-d %Y, %H:%M"  }} </span>
   </p>
 </div>
 {% endfor %}
