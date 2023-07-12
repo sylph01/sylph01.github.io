@@ -341,6 +341,32 @@ pre {
   	transition: .5s;
 }
 
+.fa-mastodon:hover {
+  color: #5B49DE;
+}
+
+.fa-mastodon {
+  padding: 5px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-sun:hover {
+	color: #00aced;
+}
+
+.fa-sun {
+  padding: 5px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
 .fa-twitter:hover {
 	color: #00aced;
 }
