@@ -43,13 +43,17 @@ mv mstdn.cryptic-command.net.user.s01.json "s01-$today.json"
 ```sh
 [Unit]
 Description=Archive mstdn.cryptic-command.net posts
+Requires=mstdn-archive.service
 
 [Timer]
+Unit=mstdn-archive.service
 OnCalendar=Sun 00:00
 
 [Install]
 WantedBy=timers.target
 ```
+
+(8/5更新: どのserviceを実行するべきかの記述が必要だった。これがないとタイマーは発火するけど何もしない。)
 
 ### ~/.config/systemd/user/mstdn-archive.service
 
