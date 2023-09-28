@@ -19,6 +19,8 @@ Please note that I do not intend this entry to be representing the collective vi
 
 [^1]: When I visited the US and played on PW-enabled IIDX tricoro, I even saw content that was still supposed to be locked, but I refused to play them until they officially came out.
 
+(update 9/28: [I've written a companion article, detailing on some topics that came in response to this.](/en/on-adult-matters.html))
+
 ## 日本人向けIntroduction
 
 これは西側の読者を想定した記事であり、日本語版を提供するつもりはありません。どうしても日本語で読みたい人はGoogle TranslateかChatGPTにでも聞いてください。
