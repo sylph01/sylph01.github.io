@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Another Phase
-date: 2023-11-13 15:58:00 +09:00
+date: 2023-11-14 15:58:00 +09:00
 category: ja
 ---
 
