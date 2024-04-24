@@ -21,14 +21,18 @@ navigation:
 - title: About
   url: /about
 
-paginate:            5
+paginate:            5ex
 disqus:              #"your-disqus"
 
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-plugins:             [jekyll-paginate, jekyll-seo-tag]
+plugins:             [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 # gems:              [jekyll-paginate]
 
 timezone:            Asia/Tokyo
+
+feed:
+  excerpt_only: true
+  tags: true
