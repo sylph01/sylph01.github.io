@@ -32,7 +32,3 @@ plugins:             [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 # gems:              [jekyll-paginate]
 
 timezone:            Asia/Tokyo
-
-feed:
-  excerpt_only: true
-  tags: true
