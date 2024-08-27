@@ -18,6 +18,12 @@ Links to relevant repositories are below:
 
 Please note that I am omitting explanations of what PicoRuby and R2P2 are. Please go check the official repository for those.
 
+## Update 8/27/2024
+
+WiFi in PicoRuby/R2P2 has been merged, so [I wrote a quick update document about how to build with WiFi(in Japanese)](/ja/picoruby-wifi-build.html). Also, [I wrote an article on my RubyKaigi talk in Rubyist Magazine vol.0064 (also in Japanese)](https://magazine.rubyist.net/articles/0064/AddingSecurityToMicrocontrollerRubyJa.html).
+
+(日本語) マージされたので[ビルド方法について速報記事を書きました](/ja/picoruby-wifi-build.html)。また、[Rubyist Magazine 0064号にRubyKaigiのトークの日本語解説記事があります](https://magazine.rubyist.net/articles/0064/AddingSecurityToMicrocontrollerRubyJa.html)。
+
 ## Building PC version R2P2
 
 You can build R2P2 that runs on PC with `MRUBY_CONFIG=r2p2-bin` option. This is used to check functionality that doesn't depend on devices. I used this to test the cryptography implementation.
