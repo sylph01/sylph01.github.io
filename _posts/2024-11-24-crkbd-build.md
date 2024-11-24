@@ -33,7 +33,7 @@ category: ja
   - RP2350版も同じように潰してしまうところだったがこちらはプラスチックが癒着してなかったのでシュッ太郎ではんだを処理したあとコンスルーとピンをペンチで剥がすことで多少裏面のランドが剥げる程度で救出することに成功した
 - [高さ3.5mmのコンスルー](https://www.switch-science.com/products/7448) をスイッチサイエンスで買う
 - こっちの高さなら干渉しない、装着してファームウェアを焼く
-  - [ork_firmware](https://github.com/picoruby/prk_firmware)のReleasesから`.uf2.zip`を落として解凍、`.uf2`を書き込む
+  - [prk_firmware](https://github.com/picoruby/prk_firmware)のReleasesから`.uf2.zip`を落として解凍、`.uf2`を書き込む
 - [keymap.rb](https://gist.github.com/sylph01/0cdefeaf5fd1854cdd9f6f5e45e2a1cd) を書き込む
   - "PRK DRIVE"が出てきたら`keymap.rb`をドロップ
   - これは[prk_crkbd](https://github.com/picoruby/prk_crkbd)をベースにいつものキー配列に書き直しただけ
