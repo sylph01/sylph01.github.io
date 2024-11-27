@@ -48,3 +48,39 @@ category: ja
     - これをKarabiner-Elementsで International4 → かな、 International5 → 英数 にマッピングする
     - そのうえで、Karabiner-Elementsのリマップが適用される範囲にPRKのキーボードが含まれるようにする
     - これをすると `HENK` / `MHEN` を使ってIMEのオンオフができるようになる
+
+----
+
+## 11/27追記: もう1枚をType-C化した
+
+![](/images/crkbd_atmega32u4.jpg)
+
+- 使用したのは[Amazonで遊舎工房が販売しているType-C版 Pro Micro](https://amazon.co.jp/dp/B0CV51GBLZ)
+  - コンスルーがセットでついているが、**結局上記と同じ理由により3.5mmのコンスルーでないと干渉する** ので使ってない
+  - その点でいえば、コンスルーをスイッチサイエンスで入手して、板自体は [FORIOTの3枚版](https://amazon.co.jp/dp/B0CW343TCS) でも別に問題はない気がする
+    - Amazonで検索したところ高さ3mmのコンスルーは売ってるけど3mmでいけるかどうかは未検証。5mmもあって多少オーバーキル気味に見えるがあと2mmくらいならIMKのケースには十分収まる
+- Type-Cの端子が下向きになるようにPro Microとコンスルーをはんだ付けする
+- そして基板に装着…してみると、RAW/TX0のピンからPro Microの端までの長さが微妙に異なるので**右側にしか装着できない**
+  - これはIMK Corne固有の問題で、サンドイッチ型ケースのCorneならここが干渉することはないと思われる
+  - FORIOT版のPro Microでも画像見る限り干渉するような長さをしていそう
+  - もしかしたらType-Cの端子が上向きになるようにコンスルーを装着（上下逆に装着）することでもう1セット空いてるピンの穴を使ってPro Microを装着できるのでは…？という気がしたが既に2枚とも同じ向きでコンスルーをつけていたので検証できなかった
+    - 逆向きにつける場合、Type-Cのソケットの高さのせいでコンスルーの高さが足りないということは起きないので付属している高さ2.5mmのコンスルーでも大丈夫と思われる
+- 仕方がないので左側はmicroBのPro Microを流用。microBとType-C両方でつなげるようになった
+- こうするとType-C側につないだときに普通にファームウェアを焼くと左右逆に認識するので、EEPROMに極性（右か左か）を固定する方法を使った
+  - [config.h, keymap.cはこちら](https://gist.github.com/sylph01/79571118f76666c9f94b94751e4e80f1)
+    - これのうち、`config.h` の `#define EE_HANDS` がEEPROMを見て極性を判断せよ、と指示する部分
+    - その他の設定について
+      - `TAPPING_TERM` は130〜150くらいに設定している
+      - LEDをはんだ付けしていないので `RGBLIGHT_ENABLE` はしてないけど元のやつを残してるだけ
+      - あとのキーマップはほぼPRKで書いたやつと同じ
+  - MacにQMKを入れる
+    - `brew install qmk/qmk/qmk`
+    - `qmk setup`
+    - `brew install avr-gcc`
+      - なぜかこれが `qmk setup` で漏れているので手で入れる
+    - `qmk setup`
+      - ちゃんと設定が完了していることを確認する
+  - 実際に焼く
+    - defaultキーマップに上記のファイルを上書きする方法でやった
+    - 左側(microB) `qmk flash -kb crkbd/rev1 -km default -bl avrdude-split-left`
+    - 右側(Type-C) `qmk flash -kb crkbd/rev1 -km default -bl avrdude-split-right`
