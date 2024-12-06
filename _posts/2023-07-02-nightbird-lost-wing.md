@@ -38,7 +38,11 @@ Twitterを言論空間として見た場合に悪意のあるbotによるフェ�
 
 ## 鳥の羽ばたく真の青空(True Blue)はBlueskyなのか？
 
-<iframe src="https://bsky.link/?show_thread=on&amp;url=https://bsky.app/profile/sylph01.s01.ninja/post/3jyr57bzyyd2d" width="80%" height="200px" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:zxcajoi4lpw6u7sq3lalz2kb/app.bsky.feed.post/3jyr57bzyyd2d" data-bluesky-cid="bafyreihlpwaicvhmne7mjvmk74mevjlxhpnviieo7k23pficpw3u374ijm"><p lang="">〽 What happens to a heart when love breaks?
+Does it fade into a shadow of remorse, when it aches?
+Or can it fly to the sky like a bird,
+Lighter than ever, stronger too
+Oh I think a heart always learns to come through</p>&mdash; sylph01 (<a href="https://bsky.app/profile/did:plc:zxcajoi4lpw6u7sq3lalz2kb?ref_src=embed">@sylph01.s01.ninja</a>) <a href="https://bsky.app/profile/did:plc:zxcajoi4lpw6u7sq3lalz2kb/post/3jyr57bzyyd2d?ref_src=embed">2023年6月22日 23:35</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">True Blueのロング版、&quot;Opening my eyes, I see blue skies...&quot;という歌詞なんだけど、これはもしかしてTwitterが破滅した世界で「真のBlueとはbskyのことだった！」というテーマの歌</p>&mdash; sylph01 (@s01) <a href="https://twitter.com/s01/status/1667724815061639169?ref_src=twsrc%5Etfw">June 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
