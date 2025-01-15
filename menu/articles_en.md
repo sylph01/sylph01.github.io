@@ -2,6 +2,18 @@
 layout: page
 title: Articles(en)
 ---
+<script type="text/javascript">
+Hatena.Star.SiteConfig = {
+  entryNodes: {
+    'li.post': {
+      uri: 'li.post a',
+      title: 'span.post-title',
+      container: 'p.post-date'
+    }
+  }
+};
+</script>
+
 <ul class="posts">
   {% for post in site.categories.en %}
 
@@ -15,8 +27,8 @@ title: Articles(en)
       {% endif %}
     {% endunless %}
 
-    <li itemscope>
-      <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+    <li itemscope class="post">
+      <a href="{{ site.github.url }}{{ post.url }}"><span class="post-title">{{ post.title }}</span></a>
       <p class="post-date"><span><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%B %-d %Y " }}</span></p>
     </li>
 
