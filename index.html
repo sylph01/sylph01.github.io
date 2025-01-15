@@ -3,12 +3,25 @@ layout: default
 title: Home
 ---
 
+<script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+Hatena.Star.SiteConfig = {
+  entryNodes: {
+    'div.posts': {
+      uri: 'h3 a',
+      title: 'span.post-title',
+      container: 'span.post-date'
+    }
+  }
+};
+</script>
+
 <h2>Posts</h2>
 
 {% for post in paginator.posts %}
 <div class="posts">
   <h3>
-    <a href="{{ site.github.url }}{{ post.url }}">[{{ post.category }}] {{ post.title }}</a>
+    <a href="{{ site.github.url }}{{ post.url }}">[{{ post.category }}] <span class="post-title">{{ post.title }}</span></a>
   </h3>
   {% if post.image.teaser %}
     <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/images/{{ post.image.teaser }}"></a>
