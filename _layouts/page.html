@@ -2,10 +2,25 @@
 layout: default
 ---
 
+<script type="text/javascript" src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+<script type="text/javascript">
+  Hatena.Star.SiteConfig = {
+    entryNodes: {
+      'div.hatena-star-entry': {
+        uri: 'window.location',
+        title: 'h1',
+        container: 'p#datetime'
+      }
+    }
+  };
+  </script>
+
+<div class="hatena-star-entry">
 <h1>
   {{ page.title }}
 </h1>
 
-<p style="font-size:0.9rem">{{ page.date | date: "%H:%M, %B %-d %Y " }}</p>
+<p style="font-size:0.9rem" id="datetime">{{ page.date | date: "%H:%M, %B %-d %Y " }}</p>
 
 {{ content }}
+</div>
