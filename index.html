@@ -16,9 +16,9 @@ Hatena.Star.SiteConfig = {
 };
 </script>
 
-<h2>Posts</h2>
+<h2>Recent Articles</h2>
 
-{% for post in paginator.posts %}
+{% for post in site.posts limit:8 %}
 <div class="posts">
   <h3>
     <a href="{{ site.github.url }}{{ post.url }}">[{{ post.category }}] <span class="post-title">{{ post.title }}</span></a>
@@ -32,19 +32,3 @@ Hatena.Star.SiteConfig = {
   </p>
 </div>
 {% endfor %}
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next">Older</a>
-  {% else %}
-    <span class="pagination-button">Older</span>
-  {% endif %}
-
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">Newer</a>
-    {% else %}
-      <span class="pagination-button">Newer</span>
-  {% endif %}
-
-</div>

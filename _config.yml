@@ -17,18 +17,17 @@ navigation:
 - title: Articles(en)
   url: /menu/articles_en
 - title: Blog(ja)
-  url: "http://sylph01.hatenablog.jp/"
+  url: "https://d.s01.ninja/"
 - title: About
   url: /about
 
-paginate:            5ex
 disqus:              #"your-disqus"
 
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-plugins:             [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+plugins:             [jekyll-seo-tag, jekyll-feed]
 # gems:              [jekyll-paginate]
 
 timezone:            Asia/Tokyo
