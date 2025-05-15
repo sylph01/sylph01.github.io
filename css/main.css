@@ -474,3 +474,100 @@ pre {
 .fa-codepen:hover {
 	color: black;
 }
+
+/*
+  landing page content
+*/
+
+.container-landing {
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+
+@media (max-width: 600px) {
+  .container-landing {
+    width: 95%;
+  }
+}
+
+.masthead-landing {
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  margin-bottom: 0.2rem;
+  font-family: "Quattrocento Sans", sans-serif;
+}
+
+.masthead-landing h3 {
+  padding-left: 1rem;
+}
+
+.landing-page-container {
+  margin-bottom: 14px;
+  margin-left: 6px;
+  margin-right: 6px;
+  border: 1px solid #000;
+  border-radius: 9px;
+  padding: 4px;
+  display: flex;
+}
+
+.landing-page-container-borderless {
+  margin-bottom: 14px;
+  margin-left: 6px;
+  margin-right: 6px;
+  border: none;
+  padding: 4px;
+  display: flex;
+}
+
+.landing-page-container-borderless ul {
+  margin: 0.1rem 0;
+  padding-left: 15px;
+}
+
+.landing-page-image {
+  height: 75px;
+  width: 75px;
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  margin: auto 0 auto 0.1rem;
+  font-size: 45px;
+  text-align: center;
+}
+
+.landing-page-brand-icon {
+  height: 50px;
+  width: 50px;
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  margin: auto 0.6rem auto 0.2rem;
+  font-size: 45px;
+  text-align: center;
+}
+
+.landing-page-brand-icon .fa-bluesky {
+  padding: 5px;
+}
+
+.landing-page-brand-icon .fa-blog {
+  padding: 5px;
+}
+
+.landing-page-content {
+  padding: 0.6rem;
+  float: right;
+}
+
+
+.landing-page-content h4 {
+  font-size: 1.1rem;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+}
+
+.no-underline {
+  text-decoration: none;
+}
