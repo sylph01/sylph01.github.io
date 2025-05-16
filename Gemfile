@@ -11,7 +11,7 @@ gem "jekyll-paginate"
 gem "jekyll-seo-tag"
 gem "jekyll-feed"
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
 
 gem "csv"
 gem "base64"
