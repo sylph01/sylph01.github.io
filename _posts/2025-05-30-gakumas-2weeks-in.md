@@ -45,6 +45,7 @@ category: ja
   - 清夏: 一見おちゃらけてるように見えるけどコミュ進めていくと根がいい子なのがわかるんですよ…
     - Tame-Lie-One-Stepのことを「Sota Fujimoriのポップン曲[^sysf]みたいな学マス曲」って呼んでる
   - 星南: 会長ポンコツかわいい。もしかしてデレでいうところのCoの子全員ポンコツ属性持ちでは？
+    - あっ美鈴がそうじゃないのでそんなことはなかった
 
 [^sysf]: Spring Comes Aroundとかtogether 4everとかWe Can ChangeとかBlow Me Upとかを念頭に置いてる
 
