@@ -27,7 +27,7 @@ Irisには板が作られた時期によってrevisionが少しずつ異なる�
 
 [^2]: Iris LMにはKailhスイッチ向けのものとGateronスイッチ向けのものがある。ロープロファイルスイッチはメーカー間でピンのレイアウトが異なるのでこのようになっていると思われる
 
-またレイヤーキーのタップアクションを変換・無変換キーに設定している[^3]のだが、 `KC_HENK` / `KC_MHEN` っていう名前だったのがいつの間にか違う名前に変わっていた。[QMKのキーコード一覧](https://docs.qmk.fm/keycodes_basic) を見ると `JIS Henkan` = `KC_HENK` は `KC_INT4`、 `JIS Muhenkan` = `KC_MHEN` は `KC_INT5` に変わっていたので
+またレイヤーキーのタップアクションを変換・無変換キーに設定している[^3]のだが、 `KC_HENK` / `KC_MHEN` っていう名前だったのがいつの間にか違う名前に変わっていた。[QMKのキーコード一覧](https://docs.qmk.fm/keycodes_basic) を見ると `JIS Henkan` = `KC_HENK` は `KC_INT4`、 `JIS Muhenkan` = `KC_MHEN` は `KC_INT5` に変わっていたのでそのように置き換える。突然サイレントにdeprecateされててログが探しにくいところにあるのつらい…。
 
 [^3]: なおLinuxデスクトップでこれらのキーをMacのJISキーボードみたいにIMEの有効無効に割り振るにはちょっと癖がいる。これは自分のOSセットアップガイドにメモしているのでそのうちどっかで書くかも
 
@@ -37,7 +37,7 @@ Irisには板が作られた時期によってrevisionが少しずつ異なる�
 
 だいたい公式ガイドの[Setting Up Your QMK Environment](https://docs.qmk.fm/newbs_getting_started)に従うのだが、
 
-- 素のpipで入れると `externally-managed-environment` が出るので `uv` 経由で入れる
+- 素のpipで入れると `externally-managed-environment` で怒られるので `uv` 経由で入れる
     - `sudo apt install -y git python3-pip`
     - `curl -LsSf https://astral.sh/uv/install.sh | sh`
         - [https://docs.astral.sh/uv/](https://docs.astral.sh/uv/)
