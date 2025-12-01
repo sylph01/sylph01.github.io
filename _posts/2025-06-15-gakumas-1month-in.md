@@ -170,7 +170,7 @@ NIAでは「おでかけ」を選択すると真ん中の選択肢が必ず[^2]�
     - 体力管理になるし、属性選ぶやつ4回選ぶのは結構難しいので7000pt保証されるのは助かる
   - 2次オーディション後「はつぼし手帳」
     - Tシャツでも大差ない
-- 実は **(圧縮運ゲーを除いて)一番難しいのは1次オーディション。** 
+- 実は **(圧縮運ゲーを除いて)一番難しいのは1次オーディション。**
   - ここは一番上を選びたいが、固有以外の火力が弱いと2700〜2800点を出すのが難しい。
     - 実はここも上から2番目でも足りることがある。麻央(キミとセミブルー)でFINALEクリアしたときはここは上から2番目選んだし次も上から2番目だった。
   - 1次オーディションは圧縮意識ではなく初と同じような最初に積んで最後に得点を狙うプレイングをする。
@@ -189,6 +189,18 @@ NIAでは「おでかけ」を選択すると真ん中の選択肢が必ず[^2]�
   - 《軽い足取り+》や《準備運動+》や《勢い任せ+》が生えてしまったらそっちを使うことになると思うが、絶好調付与がある前提で《軽い足取り+》がベストで、それ以外は《アピールの基本+》とそんなに変わらない印象。ちゃんと検証はしてない。
 
 どっちかというと固定火力札が何であるかが成否を分けるというよりは「ちゃんと絶好調が最後まで付与されていること」「それまでのバフの積み方」が成否を分けている印象がある。
+
+##### 固定火力札について追記(2025/12/01)
+
+NIAマスまでいろんな組み合わせで回した結果の感想がこの時点の感想とだいぶ異なっているので追記。
+
+- **100Pカスタマイズでパラメータ上昇回数が増えるカードが強い**
+  - 具体的には **《情熱ターン+》、《準備運動+》、《勢い任せ+》**
+    - 《軽い足取り+》はこれができないので弱い
+  - なので《準備運動+》、《勢い任せ+》はチェンジで生えた場合は**維持してよい**カードになる
+  - 《情熱ターン+》は18点x2、Rの2枚は最大カスタマイズで15点x2。9点x2でも集中の乗り方が変わるので及第点ではある。
+- いちおう同じ理屈で《飛躍+》のレッスン1回きりを削除したカスタマイズは強い。最悪カスタマイズできなければ捨てればいいだけだし、体力管理が容易なのもよい。
+- まあNIAプロなら《アピールの基本+》でもクリアできないことはないが…
 
 #### オーディション中の立ち回り
 
@@ -213,9 +225,9 @@ NIAでは「おでかけ」を選択すると真ん中の選択肢が必ず[^2]�
 
 ## 追記
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">十王星南 ＡＷＥＳＯＭＥ ＰＬＡＹ（輝け！+を取るところまでは覚えていたが「1回限定」を外すのを忘れてFINALE突入したが総合芸術をアイますしたらそれだけで勝てた） <a href="https://t.co/ZnizXZQvEw">pic.twitter.com/ZnizXZQvEw</a></p>&mdash; sylph01 / G4きゅーぶ (@s01) <a href="https://twitter.com/s01/status/1934170436193108181?ref_src=twsrc%5Etfw">June 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">十王星南 ＡＷＥＳＯＭＥ ＰＬＡＹ（輝け！+を取るところまでは覚えていたが「1回限定」を外すのを忘れてFINALE突入したが総合芸術をアイますしたらそれだけで勝てた） <a href="https://t.co/ZnizXZQvEw">pic.twitter.com/ZnizXZQvEw</a></p>&mdash; sylph01 / G4きゅーぶ (@s01) <a href="https://twitter.com/s01/status/1934170436193108181?ref_src=twsrc%5Etfw">June 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こっちもアチーブメント稼ぎで進めてたら通ってしまった。固有を国ドルするとバカの火力が出て強い。そしてコンテスト40k点課題を待たずしてPLv50開いたので「「「真の学園アイドルマスター」」」開幕です <a href="https://t.co/YfVmEUk5Ub">pic.twitter.com/YfVmEUk5Ub</a></p>&mdash; sylph01 / G4きゅーぶ (@s01) <a href="https://twitter.com/s01/status/1934185248465850492?ref_src=twsrc%5Etfw">June 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こっちもアチーブメント稼ぎで進めてたら通ってしまった。固有を国ドルするとバカの火力が出て強い。そしてコンテスト40k点課題を待たずしてPLv50開いたので「「「真の学園アイドルマスター」」」開幕です <a href="https://t.co/YfVmEUk5Ub">pic.twitter.com/YfVmEUk5Ub</a></p>&mdash; sylph01 / G4きゅーぶ (@s01) <a href="https://twitter.com/s01/status/1934185248465850492?ref_src=twsrc%5Etfw">June 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 星南(学園生活[^5])、麻央(キミとセミブルー)もNIAプロクリアしました。星南は回し方間違えてもクリアできてしまったので《総合芸術》をアイます[^6]したものはバカ。
 
