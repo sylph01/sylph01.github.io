@@ -112,8 +112,8 @@ p.column {
 }
 
 p.column:before {
-  font-family: "Font Awesome 6 Free"; /* または他の適切なフォントファミリー */
-  content: "\f303"; /* 例：ホームアイコンのUnicode */
+  font-family: "Font Awesome 6 Free";
+  content: "\f303";
   font-weight: 900;
   color: #888;
   font-size: 1.8em;
