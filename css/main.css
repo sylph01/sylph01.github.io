@@ -80,7 +80,8 @@ blockquote {
   margin: 1.5em 10px;
   color: #999;
   padding: 0.5em 10px;
-  quotes: "\201C""\201D""\2018""\2019";
+  quotes: "\201C""\201D";
+  /* "\2018""\2019" */
 }
 blockquote:before {
   color: #ccc;
@@ -91,6 +92,36 @@ blockquote:before {
   vertical-align: -0.4em;
 }
 blockquote p {
+  display: inline;
+}
+
+/*
+column
+
+<p class="column">
+  <span class="column-content">
+  </span>
+</p>
+*/
+
+p.column {
+  color: #606060;
+  border-left: 0.25rem solid #999;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+
+p.column:before {
+  font-family: "Font Awesome 6 Free"; /* または他の適切なフォントファミリー */
+  content: "\f303"; /* 例：ホームアイコンのUnicode */
+  font-weight: 900;
+  color: #888;
+  font-size: 1.8em;
+  line-height: 0.1em;
+  margin-right: 0.2em;
+}
+
+p.column .column-content{
   display: inline;
 }
 
