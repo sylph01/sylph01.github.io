@@ -126,6 +126,36 @@ p.column .column-content{
 }
 
 /*
+column-thought
+
+<p class="column-thought">
+  <span class="column-content">
+  </span>
+</p>
+*/
+
+p.column-thought {
+  color: #606060;
+  border-left: 0.25rem solid #999;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+
+p.column-thought:before {
+  font-family: "Font Awesome 6 Free";
+  content: "\f4ad";
+  font-weight: 900;
+  color: #888;
+  font-size: 1.8em;
+  line-height: 0.1em;
+  margin-right: 0.2em;
+}
+
+p.column-thought .column-content{
+  display: inline;
+}
+
+/*
   Site container
 */
 
