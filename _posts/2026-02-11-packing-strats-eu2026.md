@@ -19,8 +19,8 @@ category: ja
         - キーボードはPrime_eを持っていった
     - 「2/3から2/9まで仕事しません[^3]」と事前に宣言していた
 
-[^1]: Samsoniteの[B-Lite 63](https://www.samsonite.co.jp/samsonite/b-lite4/spinner63exp/navy/ss-124899-1596.html)。2023年より使用
-[^2]: どのモデルか記録してないけど2018年くらいに買ったSamsoniteの素材が主にプラスチック系のやつでC-Liteではないやつの75cmクラスのサイズ
+[^1]: Samsoniteの[B-Lite 4 Spinner 63](https://www.samsonite.co.jp/samsonite/b-lite4/spinner63exp/navy/ss-124899-1596.html)。2023年より使用
+[^2]: SamsoniteのOctolite（旧モデル）の75cmクラスのやつ。2018年くらいに買った。今のでいうと近いのは[Octolite Neo Spinner 75](https://www.samsonite.co.jp/samsonite/octolite-neo/spinner75exp/green/ss-153629-1388.html)
 [^3]: 正確にいうと、「タイムゾーンが違うかつIP reachableであるかの保証ができないのでリアルタイムの応答は期待できません」くらいのニュアンス
 
 ## 持っていったもの
