@@ -18,7 +18,7 @@ yak shavingは楽しい。
 >   - ブートストラップ手段はマニュアル化してあり、だいたい30分〜1時間で元の環境を取り戻せる
 >     - 多分これの大部分を自動化しようと思ったらNixOSなんだろうと思っているが…
 
-みたいなことを書いた。そうしたら最近Rubyコミュニティで話題の『シンプリシティ』を読んでいたところ [yadm (Yet Another Dotfiles Manager)](https://yadm.io/) というツールの存在を知った。これはホームディレクトリをGitレポジトリのように扱いdotfilesなどを同期することのできるツールである。また、それだけにとどまらず、dotfiles以上の設定をこなすための[Bootstrap](https://yadm.io/docs/bootstrap)という機能があるし、センシティブな情報をGitでやりとりすることを助けるための[暗号化機能](https://yadm.io/docs/encryption)もある。
+みたいなことを書いた。そうしたら最近Rubyコミュニティで話題の[『シンプリシティ』](https://www.oreilly.co.jp/books/9784814401710/)を読んでいたところ [yadm (Yet Another Dotfiles Manager)](https://yadm.io/) というツールの存在を知った。これはホームディレクトリをGitレポジトリのように扱いdotfilesなどを同期することのできるツールである。また、それだけにとどまらず、dotfiles以上の設定をこなすための[Bootstrap](https://yadm.io/docs/bootstrap)という機能があるし、センシティブな情報をGitでやりとりすることを助けるための[暗号化機能](https://yadm.io/docs/encryption)もある。
 
 そして前回記事からのUpdateとして、今の私はClaude Max 5xの課金ユーザーである。というわけで中性子星くらい重いｴｲｱｰｽを挙げて[^1]いろいろ聞きながら自動化を行った。
 
